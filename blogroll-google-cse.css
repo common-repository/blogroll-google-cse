@@ -1,0 +1,16 @@
+/*
+ * This file is included as part of the WordPress Blogroll to Google CSE plugin
+ * The plugin is Copyright (C) 2008 Corey Wallis <techxplorer@gmail.com>
+ * The plugin is covered by the GPL. Full details in the header of the 
+ * blogroll-google-cse.php file
+ */
+
+.lintlinkcseshowhide li
+{
+	display: inline;
+	list-style-type: none;
+}
+
+#google_search_results IFRAME {
+	width: 500px;
+}
